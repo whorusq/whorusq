@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋  👨🏻‍💻
 
-<!--
-**whorusq/whorusq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+Last login: Tue Jul  7 09:25:15 on ttys001
 
-Here are some ideas to get you started:
+     Talk is cheap, just do IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+         \   ,__,
+          \  (oo)____
+             (__)    )\
+                ||--|| *
+                
+➜  ~ whoami
+Qiang Sun 🚹 (A full-stack developer)
+➜  ~ nickname
+whorusq -> whoru.S.Q
+➜  ~ cd tech-stack
+➜  tech-stack ls -rst frontend
+HTML    CSS    JavaScript
+➜  tech-stack ls -rst backend
+PHP    NodeJs
+➜  tech-stack ls -rst database
+MySQL    Redis    MongoDB
+➜  tech-stack ls -rst os
+CentOS    macOS    Ubuntu    Debian
+➜  tech-stack cd ..
+➜  ~ ls learning
+```
