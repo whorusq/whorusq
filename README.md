@@ -9,20 +9,57 @@ Last login: Tue Jul  7 09:25:15 on ttys001
           \  (oo)____
              (__)    )\
                 ||--|| *
-                
+
 ➜  ~ whoami
 Qiang Sun 🚹 (A full-stack developer)
 ➜  ~ nickname
 whorusq -> whoru.S.Q
-➜  ~ cd tech-stack
-➜  tech-stack ls -rst frontend
-HTML    CSS    JavaScript
-➜  tech-stack ls -rst backend
-PHP    NodeJs
-➜  tech-stack ls -rst database
-MySQL    Redis    MongoDB
-➜  tech-stack ls -rst os
-CentOS    macOS    Ubuntu    Debian
-➜  tech-stack cd ..
-➜  ~ ls learning
+```
+
+### Tech-stack
+
+```PHP
+<?php
+$myTechStack = [
+  'frontend' => [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'ui' => ['Bootstrap', 'EasyUI', 'Layui']
+    'framwork' => ['Vue']
+  ],
+  'backend' => [
+    'PHP' => ['ThinkPHP', 'Yii'],
+    'NodeJS' => ['express', 'koa']
+  ],
+  'database' => [
+    'MySQL',
+    'Redis',
+    'other' => ['Oracle', 'SQL Server', 'MongoDB']
+  ]
+  'os' => ['CentOS', 'macOS', 'Ubuntu'],
+  'other' => [
+    'wechat' => ['Official Accounts', 'Mini Program']
+  ]
+];
+$myLearning = [];
+print_r($myTechStack);
+print_r($myLearning);
+```
+
+### Doing
+
+```python
+
+```
+
+### Contact
+
+```js
+const contactMe = {
+  blogUrl: 'https://blog.sqiang.net',
+  eMail: 'whoru@sqiang.net',
+  weiboUrl: 'https://weibo.com/u/6557370609'
+};
+console.log(contactMe);
 ```
