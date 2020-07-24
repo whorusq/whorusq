@@ -46,20 +46,3 @@ $myLearning = [];
 print_r($myTechStack);
 print_r($myLearning);
 ```
-
-### Doing
-
-```python
-
-```
-
-### Contact
-
-```js
-const contactMe = {
-  blogUrl: 'https://blog.sqiang.net',
-  eMail: 'whoru@sqiang.net',
-  weiboUrl: 'https://weibo.com/u/6557370609'
-};
-console.log(contactMe);
-```
