@@ -14,18 +14,14 @@ Last login: Tue Jul  7 09:25:15 on ttys001
 Qiang Sun 🚹 (A full-stack developer)
 ➜  ~ nickname
 whorusq -> whoru.S.Q
-```
-
-### Tech-stack
-
-```PHP
+➜  ~ cat tech-stack.php
 <?php
 $myTechStack = [
   'frontend' => [
     'HTML',
     'CSS',
     'JavaScript',
-    'ui' => ['Bootstrap', 'EasyUI', 'Layui']
+    'ui' => ['Bootstrap', 'EasyUI', 'Layui'],
     'framwork' => ['Vue']
   ],
   'backend' => [
@@ -36,7 +32,7 @@ $myTechStack = [
     'MySQL',
     'Redis',
     'other' => ['Oracle', 'SQL Server', 'MongoDB']
-  ]
+  ],
   'os' => ['CentOS', 'macOS', 'Ubuntu'],
   'other' => [
     'wechat' => ['Official Accounts', 'Mini Program']
@@ -44,5 +40,6 @@ $myTechStack = [
 ];
 $myLearning = [];
 print_r($myTechStack);
-print_r($myLearning);
+print_r($myLearning);%
+➜  ~
 ```
