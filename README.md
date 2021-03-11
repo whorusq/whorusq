@@ -1,7 +1,7 @@
 ### Hi there 👋  👨🏻‍💻
 
 ```bash
-Last login: Tue Jul  7 09:25:15 on ttys001
+Last login: Mon Jan 1 00:00:00 on ttys001
 
      Talk is cheap, just do IT.
 
