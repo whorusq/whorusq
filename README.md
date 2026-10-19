@@ -11,7 +11,7 @@ Last login: Mon Jan 1 00:00:00 on ttys001
                 ||--|| *
 
 ➜  ~ whoami
-Qiang Sun 🚹 (A full-stack developer)
+Qiang 🚹 (A full-stack developer)
 ➜  ~ nickname
 whorusq -> whoru.S.Q
 ➜  ~ tech-stack
